@@ -1,0 +1,38 @@
+.P_text_block {
+    background-color: rgba(248, 255, 46, 0.67);
+}
+.blank{
+    margin-left:23px;
+}
+.img_list li{
+    display:block;
+}
+ /*Í¼Æ¬ÂÖ²¥*/
+.img_list_block{
+    width:320px;
+    height:96px;
+    position:absolute;
+    left:0;
+    background-color: rgb(255, 192, 203);
+}
+.P_ul_list{
+    width:840px;
+    position:relative;
+    top:10px;
+    left:0;
+    cursor:pointer;
+}
+.P_ul_list>li{
+    display:inline-block;
+    float:left;
+    z-index: 5;
+}
+.P_ul_list img{
+    border-radius:50%;
+    width:120px;
+    height:75px;
+    margin:0 3px;
+}
+.contact{
+    margin-top:100px;
+}

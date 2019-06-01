@@ -1,0 +1,37 @@
+.P_text_block{
+    background-color: rgb(23, 255, 247);
+}
+.P_text_block>p:nth-child(3){
+    margin-left: 170px;
+    color:white;
+}
+.P_text_block>p:nth-child(4){
+    margin-left: 220px;
+    color:white;
+}
+.contact_blank{
+    background-color:white;
+    height:150px;
+    border:1px dashed #979797;
+}
+.contact_message{
+    background-color:white;
+    height:250px;
+    margin-top:20px;
+    border:1px dashed rgba(0, 0, 0, 0.51);
+}
+.contact_message{
+    text-align: center;
+    color: #787878;
+}
+.express{
+    text-align:center;
+    margin-top:20px;
+}
+.express>p:nth-child(1){
+    color: #942399;
+    font-weight:bold;
+}
+.express>p:nth-child(2),.express>p:nth-child(3){
+    color: #5e5854;
+}

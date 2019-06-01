@@ -1,0 +1,41 @@
+.frameI_A{
+    height:1070px;
+    width:310px;
+    background-color: rgba(255, 86, 247, 0.47);
+    margin-left:5px;
+}
+.I_line_A1{
+    position:relative;
+    top:10px;
+    left:5px;
+    color:darkred;
+    font-weight:bold;
+}
+.I_line_A2{
+    margin-left:50px;
+    margin-top:20px;
+    color:grey;
+}
+.I_line_A3{
+    border:1px solid #dddddd;
+    margin-left:5px;
+    margin-right:5px;
+    background-color: rgba(213, 213, 213, 0.56);
+}
+.I_span1{
+    margin-left:30px;
+}
+.I_line_A4{
+    margin:20px 40px 0 40px;
+    color:#5A5A5A;
+    text-align:left;
+}
+.I_line_A5{
+    margin-top:30px;
+    margin-left:10px;
+    cursor:pointer;
+}
+.I_line_A5>a{
+    display:block;
+    color: #8a8a8a;
+}
